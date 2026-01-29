@@ -121,74 +121,60 @@ npm install
 # 3. Jalankan Aplikasi
 npx expo start
 ```
-
 ---
 
-## 💎 Sosok Dibalik Layar (Sole Architect)
-
+💎 Sosok Dibalik Layar (Sole Architect)
 Seluruh rancangan ekosistem digital, arsitektur kode, hingga pengalaman pengguna (UI/UX) dikembangkan secara mandiri dengan dedikasi tinggi oleh:
-
 <div align="center">
-  <br />
-  
-  <!-- Card Container -->
-  <table border="0">
-    <tr>
-      <td align="center" width="600" style="background-color: #ffffff; border-radius: 30px; padding: 40px; border: 1px solid #F1F5F9;">
-        
-        <!-- Avatar dengan Efek Glow Merah -->
-        <a href="https://github.com/Ranggis">
-          <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="180" style="border-radius: 50%; border: 5px solid #E11D48; padding: 5px; filter: drop-shadow(0 0 15px rgba(225, 29, 72, 0.4));" />
-        </a>
-        
-        <br /><br />
+<br />
+<!-- Card Container -->
+<table border="0">
+<tr>
+<td align="center" width="600" style="background-color: #ffffff; border-radius: 30px; padding: 40px; border: 1px solid #F1F5F9;">
+code
+Code
+<!-- Avatar dengan Efek Glow Merah -->
+    <a href="https://github.com/Ranggis">
+      <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="180" style="border-radius: 50%; border: 5px solid #E11D48; padding: 5px; filter: drop-shadow(0 0 15px rgba(225, 29, 72, 0.4));" />
+    </a>
+    
+    <br /><br />
 
-        <!-- Role Badges -->
-        <img src="https://img.shields.io/badge/FULLSTACK_MOBILE-0F172A?style=for-the-badge&labelColor=E11D48&color=0F172A" /> 
-        <img src="https://img.shields.io/badge/UI/UX_ENGINEER-0F172A?style=for-the-badge&labelColor=334155&color=0F172A" />
-        
-        <br /><br />
-        
-        <!-- Identity -->
-        <h1 style="color: #0F172A; border-bottom: none; font-family: 'Inter', sans-serif;">Ranggis</h1>
-        <p style="color: #64748B; font-size: 16px; margin-top: -10px;">
-          <b>NIM: 20230040197</b><br />
-          Teknik Informatika • Universitas Nusa Putra
-        </p>
+    <!-- Role Badges -->
+    <img src="https://img.shields.io/badge/FULLSTACK_MOBILE-0F172A?style=for-the-badge&labelColor=E11D48&color=0F172A" /> 
+    <img src="https://img.shields.io/badge/UI/UX_ENGINEER-0F172A?style=for-the-badge&labelColor=334155&color=0F172A" />
+    
+    <br /><br />
+    
+    <!-- Identity -->
+    <h1 style="color: #0F172A; border-bottom: none; font-family: 'Inter', sans-serif;">Ranggis</h1>
+    <p style="color: #64748B; font-size: 16px; margin-top: -10px;">
+      <b>NIM: 20230040197</b><br />
+      Teknik Informatika • Universitas Nusa Putra
+    </p>
 
-        <!-- Skill Pills -->
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Expo-%23000020.svg?style=flat-square&logo=expo&logoColor=white" />
-          <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-        </p>
+    <br />
 
-        <br />
+    <!-- Social Media Links -->
+    <a href="https://github.com/Ranggis">
+      <img src="https://img.shields.io/badge/Connect_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/ranggiss">
+      <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 
-        <!-- Social Media Links -->
-        <a href="https://github.com/Ranggis">
-          <img src="https://img.shields.io/badge/Connect_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://instagram.com/ranggiss">
-          <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
+    <br /><br />
+    
+    <!-- Personal Quote -->
+    <p style="color: #94A3B8; font-style: italic; font-size: 14px; max-width: 450px;">
+      "Mengintegrasikan logika pemrograman yang presisi dengan estetika visual untuk menciptakan solusi mobile yang bermakna bagi civitas akademika."
+    </p>
 
-        <br /><br />
-        
-        <!-- Personal Quote -->
-        <p style="color: #94A3B8; font-style: italic; font-size: 14px; max-width: 450px;">
-          "Mengintegrasikan logika pemrograman yang presisi dengan estetika visual untuk menciptakan solusi mobile yang bermakna."
-        </p>
-
-      </td>
-    </tr>
-  </table>
-
-  <br />
+  </td>
+</tr>
+</table>
+<br />
 </div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=100&section=footer" width="100%"/>
