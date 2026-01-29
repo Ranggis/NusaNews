@@ -146,4 +146,3 @@ Seluruh aspek perancangan UI/UX dan arsitektur kode dikerjakan secara mandiri ol
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=100&section=footer" width="100%"/>
 <p><i>"Membangun Masa Depan Informasi Kampus, Satu Baris Kode Sekaligus."</i></p>
 </div>
-```
