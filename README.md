@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/nusput.png" width="120" style="filter: drop-shadow(0 0 15px rgba(225, 29, 72, 0.4)); border-radius: 60px;" />
 </p>
 
-# 📱 NusaNews: Premium Mobile Portal
+# NusaNews: Premium Mobile Portal
 **Aplikasi Informasi Terpadu Mahasiswa Universitas Nusa Putra**
 
 ---
@@ -31,12 +31,12 @@
 
 </div>
 
-## 📖 Intisari Proyek
+## Intisari Proyek
 **NusaNews** adalah aplikasi mobile berbasis **React Native** yang dirancang untuk memberikan pengalaman membaca berita yang modern dan seamless bagi civitas akademika Universitas Nusa Putra. Fokus utama pengembangan ini terletak pada **Estetika Visual (Aesthetic UI)**, **Optimasi Performa**, dan **Manajemen Kesalahan (Error Handling)** yang robust sesuai dengan standar industri.
 
 ---
 
-## 📽️ Video Preview
+## Video Preview
 Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami bekerja:
 
 <div align="center">
@@ -48,7 +48,7 @@ Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami 
 
 ---
 
-## 💎 Fitur Unggulan & Inovasi
+## Fitur Unggulan & Inovasi
 
 | Fitur | Deskripsi | Status |
 | :--- | :--- | :--- |
@@ -60,7 +60,7 @@ Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami 
 
 ---
 
-## 🛠️ Tech Stack & Ekosistem
+## Tech Stack & Ekosistem
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,vscode,git,github,figma" />
@@ -74,7 +74,7 @@ Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami 
 
 ---
 
-## 🛡️ Technical Debugging & Optimization (Session 14)
+## Technical Debugging & Optimization (Session 14)
 Proyek ini mengimplementasikan standar tinggi untuk penanganan bug dan performa aplikasi.
 
 ### 1. Perbaikan Bug (The Logic Fix)
@@ -106,7 +106,7 @@ const simulasikanError = () => {
 2. useMemo: Memastikan filter pencarian tidak membebani prosesor setiap kali user mengetik.
 3. FlatList Tuning: Menggunakan initialNumToRender dan windowSize untuk efisiensi RAM.
 
-**🚀 Instalasi Lokal**
+** Instalasi Lokal**
 ```Bash
 # 1. Kloning Repository
 git clone https://github.com/Ranggis/nusa-news.git
@@ -118,7 +118,7 @@ npm install
 npx expo start
 ```
 
-##👤 Sole System Architect
+## Sole System Architect
 
 Seluruh aspek perancangan UI/UX dan arsitektur kode dikerjakan secara mandiri oleh:
 <div align="center">
