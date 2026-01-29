@@ -37,19 +37,20 @@
 ---
 
 ## Video Preview
-Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami bekerja:
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/nusput.png" 
-    width="80%" 
-    alt="NusaNews Preview" 
-    style="border-radius: 20px; border: 3px solid #E11D48;"
-  >
+  Lihat bagaimana transisi smooth NusaNews bekerja!
+
+  <kbd>
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  </kbd>
+  <br /><br />
+
   <p>
-    <a href="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif">
-      <i>Lihat animasi transisi di sini</i>
-    </a>
+    <img 
+      src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif" 
+      width="300"
+    >
   </p>
 </div>
 
