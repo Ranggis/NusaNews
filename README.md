@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/nusput.png" width="120" style="filter: drop-shadow(0 0 15px rgba(225, 29, 72, 0.4)); border-radius: 60px;" />
 </p>
 
-# 📱 NusaNews: Premium Mobile Portal
+# NusaNews: Premium Mobile Portal
 **Aplikasi Informasi Terpadu Mahasiswa Universitas Nusa Putra**
 
 ---
