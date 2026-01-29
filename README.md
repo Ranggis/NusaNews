@@ -90,8 +90,6 @@ const simulasikanError = () => {
 
 **Sesudah (Fixed with Optional Chaining):**
 ```typescript
-code
-TypeScript
 const simulasikanError = () => {
   const data = null;
   // Menggunakan Optional Chaining (?.) agar aplikasi tetap berjalan
@@ -101,4 +99,57 @@ const simulasikanError = () => {
     setModalVisible(true); // Memunculkan Custom Aesthetic Modal
   }
 };
+```
+---
+
+**2. Strategi Optimasi Performa**
+1. React.memo: Digunakan pada NewsCard untuk mencegah re-render list yang tidak perlu.
+2. useMemo: Memastikan filter pencarian tidak membebani prosesor setiap kali user mengetik.
+3. FlatList Tuning: Menggunakan initialNumToRender dan windowSize untuk efisiensi RAM.
+
+---
+
+**🚀 Instalasi Lokal**
+
+```Bash
+# 1. Kloning Repository
+git clone https://github.com/Ranggis/nusa-news.git
+
+# 2. Instalasi Dependensi
+npm install
+
+# 3. Jalankan Aplikasi
+npx expo start
+```
+
+---
+
+**👤 Sole System Architect**
+Seluruh aspek perancangan UI/UX dan arsitektur kode dikerjakan secara mandiri oleh:
+<div align="center">
+<table border="0">
+<tr>
+<td align="center" width="600">
+<img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/ranggisss.jpg" width="150" style="border-radius: 50%; border: 4px solid #E11D48; padding: 5px;" /><br>
+<br>
+<img src="https://img.shields.io/badge/SOLE_DEVELOPER-0F172A?style=for-the-badge&labelColor=E11D48&color=0F172A" /><br>
+<font size="5" color="#E11D48"><strong>Ranggis</strong></font><br>
+<font size="3"><i>NIM: 20230040197 • Universitas Nusa Putra</i></font><br>
+<br>
+<p align="center">
+<a href="https://github.com/Ranggis">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/ranggiss">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
+</table>
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=100&section=footer" width="100%"/>
+<p><i>"Membangun Masa Depan Informasi Kampus, Satu Baris Kode Sekaligus."</i></p>
+</div>
 ```
