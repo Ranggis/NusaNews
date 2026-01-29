@@ -36,36 +36,21 @@
 
 ---
 
----
+## ✨ Cuplikan Pengalaman Pengguna
+Transisi antar layar yang mulus mencerminkan kualitas kode dan efisiensi *rendering* sistem.
 
-## 🎥 Preview Aplikasi & Logika Flow
 <div align="center">
-<table>
-  <tr>
-    <!-- Kolom Video -->
-    <td width="400" align="center" style="border: none;">
-      <img 
-        src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif" 
-        width="280" 
-        style="border-radius: 30px; filter: drop-shadow(0 15px 30px rgba(225, 29, 72, 0.3));"
-      />
-    </td>
-    <!-- Kolom Deskripsi -->
-    <td width="400" style="border: none; vertical-align: middle;">
-      <h3 style="color: #E11D48;">✨ Highlight Utama</h3>
-      <ul style="color: #475569; line-height: 1.6;">
-        <li><b>Cinematic Entry:</b> Animasi mengetik logo yang dinamis.</li>
-        <li><b>Aesthetic Onboarding:</b> Alur penyambutan user yang clean.</li>
-        <li><b>Smooth Scrolling:</b> Implementasi FlatList Optimization.</li>
-        <li><b>Safe Interface:</b> Layout yang presisi menyesuaikan Safe Area.</li>
-        <li><b>Debug Integrity:</b> Penanganan error sistem secara real-time.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <br/>
+  <p align="center">
+    <img 
+      src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif" 
+      width="320" 
+      style="border-radius: 40px; border: 8px solid #0F172A; filter: drop-shadow(0 20px 50px rgba(225, 29, 72, 0.4));"
+    />
+  </p>
+  <br/>
+  <kbd><b>Sistem Terverifikasi (Session 14 Standard)</b></kbd>
 </div>
-
----
 
 ---
 
