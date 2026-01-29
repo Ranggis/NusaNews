@@ -112,7 +112,7 @@ const simulasikanError = () => {
 2. useMemo: Memastikan filter pencarian tidak membebani prosesor setiap kali user mengetik.
 3. FlatList Tuning: Menggunakan initialNumToRender dan windowSize untuk efisiensi RAM.
 
-** Instalasi Lokal**
+**Instalasi Lokal**
 ```Bash
 # 1. Kloning Repository
 git clone https://github.com/Ranggis/nusa-news.git
