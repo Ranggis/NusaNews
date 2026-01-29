@@ -37,15 +37,9 @@
 ---
 
 ## Video Preview
+Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami bekerja:
 
 <div align="center">
-  Lihat bagaimana transisi smooth NusaNews bekerja!
-
-  <kbd>
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  </kbd>
-  <br /><br />
-
   <p>
     <img 
       src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif" 
