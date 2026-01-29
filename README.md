@@ -40,7 +40,7 @@
 Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami bekerja:
 
 <div align="center">
-  <a href="URL_VIDEO_YOUTUBE_KAMU_DISINI">
+  <a href="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.mp4">
     <img src="https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/maxresdefault.jpg" width="80%" alt="NusaNews Preview" style="border-radius: 20px; border: 3px solid #E11D48;">
   </a>
   <p><i>(Klik gambar untuk memutar video demo aplikasi)</i></p>
