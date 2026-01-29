@@ -1,35 +1,50 @@
 import { Tabs } from 'expo-router';
-import React from 'react';
-
-import { HapticTab } from '@/components/haptic-tab';
-import { IconSymbol } from '@/components/ui/icon-symbol';
-import { Colors } from '@/constants/theme';
-import { useColorScheme } from '@/hooks/use-color-scheme';
+import { Home, User, Newspaper } from 'lucide-react-native';
+import { StyleSheet, View, Text } from 'react-native';
 
 export default function TabLayout() {
-  const colorScheme = useColorScheme();
-
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
         headerShown: false,
-        tabBarButton: HapticTab,
-      }}>
+        tabBarActiveTintColor: '#E11D48', // Merah Nusa Putra
+        tabBarInactiveTintColor: '#94A3B8',
+        
+        // STYLE BARU: Standard & Clean
+        tabBarStyle: {
+          backgroundColor: '#FFFFFF',
+          height: 65,
+          borderTopWidth: 1,
+          borderTopColor: '#F1F5F9', // Garis tipis di atas tab biar rapi
+          elevation: 0, // Hapus bayangan Android yang kaku
+          paddingBottom: 8,
+          paddingTop: 8,
+        },
+        tabBarLabelStyle: {
+          fontSize: 11,
+          fontWeight: '700',
+        },
+      }}
+    >
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Home',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="house.fill" color={color} />,
+          title: 'Berita',
+          tabBarIcon: ({ color, focused }) => (
+            <Newspaper color={color} size={24} strokeWidth={focused ? 2.5 : 2} />
+          ),
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="two"
         options={{
-          title: 'Explore',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
+          title: 'Profile',
+          tabBarIcon: ({ color, focused }) => (
+            <User color={color} size={24} strokeWidth={focused ? 2.5 : 2} />
+          ),
         }}
       />
+      <Tabs.Screen name="debug" options={{ href: null }} />
     </Tabs>
   );
 }
