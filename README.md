@@ -41,9 +41,14 @@ Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami 
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif">
-    <img src="https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/maxresdefault.jpg" width="80%" alt="NusaNews Preview" style="border-radius: 20px; border: 3px solid #E11D48;">
+    <img 
+      src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/nusput.png" 
+      width="80%" 
+      alt="NusaNews GIF Preview" 
+      style="border-radius: 20px; border: 3px solid #E11D48;"
+    >
   </a>
-  <p><i>(Klik gambar untuk memutar video demo aplikasi)</i></p>
+  <p><i>(Klik gambar untuk melihat animasi transisi aplikasi)</i></p>
 </div>
 
 ---
