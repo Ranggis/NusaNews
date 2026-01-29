@@ -36,16 +36,29 @@
 
 ---
 
-## Video Preview
-Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami bekerja:
+## 📱 Eksplorasi Visual & Transisi Sistem
+Saksikan bagaimana **NusaNews Pro** memberikan pengalaman transisi yang halus, mulai dari *Cinematic Loading* hingga *Interactive Dashboard*.
 
 <div align="center">
-  <p>
-    <img 
-      src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.mp4" 
-      width="300"
-    >
-  </p>
+  <br/>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <!-- Bingkai Simulasi Smartphone -->
+        <div style="background-color: #0F172A; padding: 10px; border-radius: 45px; border: 4px solid #1E293B; display: inline-block;">
+          <img 
+            src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif" 
+            width="280" 
+            style="border-radius: 35px; border: 2px solid #000;"
+            alt="NusaNews Walkthrough"
+          />
+        </div>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Status-Smooth_Transition_Verified-10B981?style=flat-square&logo=checkmarx&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+  <p style="color: #64748B; font-style: italic;">"Antarmuka yang responsif dikombinasikan dengan logika optimasi performa tinggi."</p>
 </div>
 
 ---
