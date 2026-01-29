@@ -86,3 +86,19 @@ const simulasikanError = () => {
   const data = null;
   return data.system.forceCrash(); // App langsung Crash
 };
+```
+
+**Sesudah (Fixed with Optional Chaining):**
+```typescript
+code
+TypeScript
+const simulasikanError = () => {
+  const data = null;
+  // Menggunakan Optional Chaining (?.) agar aplikasi tetap berjalan
+  const checkData = data?.system?.forceCrash(); 
+
+  if (!checkData) {
+    setModalVisible(true); // Memunculkan Custom Aesthetic Modal
+  }
+};
+```
