@@ -42,7 +42,7 @@ Lihat bagaimana transisi halus dari Loading Screen hingga Dashboard System kami 
 <div align="center">
   <p>
     <img 
-      src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.gif" 
+      src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/NusaNews.mp4" 
       width="300"
     >
   </p>
