@@ -36,7 +36,7 @@
 
 ---
 
-## ✨ Cuplikan Pengalaman Pengguna
+## Cuplikan Pengalaman Pengguna
 Transisi antar layar yang mulus mencerminkan kualitas kode dan efisiensi *rendering* sistem.
 
 <div align="center">
