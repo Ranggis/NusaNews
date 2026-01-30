@@ -126,7 +126,7 @@ npm install
 npx expo start
 ```
 
-## Sole System Architect
+## Solo Developer
 
 Seluruh aspek perancangan UI/UX dan arsitektur kode dikerjakan secara mandiri oleh:
 <div align="center">
